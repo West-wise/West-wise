@@ -24,14 +24,14 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=West-wise&show_icons=true&theme=dark&hide_border=true&card_width=400)](https://github.com/West-wise/West-wise)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=West-wise&langs_count=8&layout=compact&theme=dark&hide_border=true&card_width=400)](https://github.com/West-wise/West-wise)
 
 
+
+  
 ### 🏅BOJ 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=psh0036)](https://solved.ac/psh0036)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=West-wise&show_icons=true&theme=dark&hide_border=true&card_width=400)](https://github.com/West-wise/West-wise)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=West-wise&langs_count=10&layout=compact&theme=dark&hide_border=true&card_width=400)](https://github.com/West-wise/West-wise)
-
 
 
 ---
