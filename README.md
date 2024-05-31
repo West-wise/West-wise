@@ -29,10 +29,9 @@
 ### 🏅BOJ 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=psh0036)](https://solved.ac/psh0036)
 
-<div style="display: flex; justify-content: space-between;">
-  <img  src="https://github-readme-stats.vercel.app/api?username=West-wise&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=West-wise&langs_count=8&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=West-wise&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/West-wise/West-wise)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=West-wise&langs_count=8&layout=compact&theme=github_dark&hide_border=true)](https://github.com/West-wise/West-wise)
+
 
 ---
 
