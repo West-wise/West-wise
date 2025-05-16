@@ -1,5 +1,4 @@
 ## Welcome to my Github 😄
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWest-wise&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=TODAY&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ***
 ### 🏃Activiy
@@ -32,8 +31,8 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 <div style="display: flex; align-items: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=West-wise&theme=dark&hide_border=true" />
+  <a href="https://solved.ac/psh0036">
+    <img height="200" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=psh0036" alt="Solved.ac Profile" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=West-wise&layout=compact&langs_count=8&theme=dark&hide_border=true" />
@@ -41,11 +40,6 @@
 </div>
 
 <div style="clear: both;"></div>
-
-<h3>🏅BOJ</h3>
-<a href="https://solved.ac/psh0036">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=psh0036" alt="Solved.ac Profile" />
-</a>
 
 
 
